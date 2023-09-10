@@ -1,4 +1,4 @@
-# Godot Tutorial #2 
+# Godot Tutorial - 2d sprout sprites
 
 [Deployed Prototype on itch.io](https://hwiesner.itch.io/sprouts-2d-godot-tutorial)
 
